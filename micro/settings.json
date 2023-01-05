@@ -1,0 +1,10 @@
+{
+    "autoclose": false,
+    "clipboard": "internal",
+    "colorscheme": "cmc-16",
+    "ftoptions": false,
+    "indentchar": "»",
+    "linter": false,
+    "syntax": false,
+    "tabsize": 8
+}
